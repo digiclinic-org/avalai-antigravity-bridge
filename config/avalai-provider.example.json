@@ -1,0 +1,10 @@
+{
+  "_comment": "Documentation example only. This is NOT guaranteed to be importable as an upstream model-manager config. Never put a real API key in this file.",
+  "provider_display_name": "AvalAI",
+  "api_base_url": "https://api.avalai.ir/v1",
+  "chat_completions_endpoint": "https://api.avalai.ir/v1/chat/completions",
+  "api_format": "OpenAI Chat Completions",
+  "authentication": "Bearer Token",
+  "api_key": "ENTER_LOCALLY_IN_MODEL_MANAGER",
+  "model_id": "COPY_EXACT_MODEL_ID_FROM_YOUR_AVALAI_ACCOUNT"
+}
